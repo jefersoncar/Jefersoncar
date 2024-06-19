@@ -1,4 +1,6 @@
-## Hi there 👋
+meu nome é Jeferson Cardoso 
+estou estudando no alura 
+estou me desenvolvendo na linguagem javascript
 
 <!--
 **jefersoncar/Jefersoncar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
